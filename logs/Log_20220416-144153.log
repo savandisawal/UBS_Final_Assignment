@@ -1,0 +1,25 @@
+2022-04-16 14:41:53,631 Emp: Test 1 - test_employee_retrieve Pass
+2022-04-16 14:41:53,631 Emp: Test 2 - test_content_type Pass
+2022-04-16 14:41:53,631 Emp: Test 3 - test_validate_emp Pass
+2022-04-16 14:41:53,631 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,652 http://localhost:5000 "GET /employees HTTP/1.1" 200 296
+2022-04-16 14:41:53,653 Emp: Test 4 test_length_emp Pass
+2022-04-16 14:41:53,656 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,661 http://localhost:5000 "POST /employees HTTP/1.1" 200 98
+2022-04-16 14:41:53,663 Emp: Test 5 - test_post_emp Pass
+2022-04-16 14:41:53,665 Role: Test 1 - test_role_tetrieve Pass
+2022-04-16 14:41:53,667 Role: Test 2 - test_content_type Pass
+2022-04-16 14:41:53,669 Role: Test 3 - test_validate_role Pass
+2022-04-16 14:41:53,671 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,676 http://localhost:5000 "GET /roles HTTP/1.1" 200 145
+2022-04-16 14:41:53,677 Role: Test 4 - test_length_role Pass
+2022-04-16 14:41:53,682 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,685 http://localhost:5000 "POST /roles HTTP/1.1" 200 69
+2022-04-16 14:41:53,685 Role: Test 5 - test_post_role Pass
+2022-04-16 14:41:53,685 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,685 http://localhost:5000 "GET /roles/1 HTTP/1.1" 200 67
+2022-04-16 14:41:53,685 Role: Test 6 - test_expected_role Pass
+2022-04-16 14:41:53,685 Starting new HTTP connection (1): localhost:5000
+2022-04-16 14:41:53,701 http://localhost:5000 "GET /employees/1 HTTP/1.1" 200 422
+2022-04-16 14:41:53,701 Unit Test 1 Pass
+2022-04-16 14:41:53,701 Unit Test 2 Pass
