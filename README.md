@@ -42,6 +42,7 @@ I have used the Python and Flask framework<br/>
 
 * **[Python3](https://www.python.org/downloads/)** - A programming language that lets you work more quickly.
 * **[Flask](https://flask-restful.readthedocs.io/en/latest/)** - A microframework for Python based.
+* Pycharm is used as IDE
 * Minor dependencies can be found in the requirements.txt file on the root folder.
 
 ## Installation / Usage
