@@ -1,4 +1,5 @@
 # Assignment:
+
 Create a RESTful Web Service for with 5 URL mappings.<br/> 
 •	Return a list of Employees<br/>
 •	Create a new Employee<br/>
@@ -7,26 +8,26 @@ Create a RESTful Web Service for with 5 URL mappings.<br/>
 •	Associate a Role to a User<br/>
 
 Integration tests<br/>
-As an API User,
-Given the User Service
-When I call the first URL mapping, and pass a new User JSON, it’s created on the Service
+As an API User,<br/>
+Given the User Service<br/>
+When I call the first URL mapping, and pass a new User JSON, it’s created on the Service<br/>
+<br/>
+As an API User,<br/>
+Given the User Service<br/>
+When I call the third URL mapping, I get a list of Roles<br/>
+<br/>
+As an API User,<br/>
+Given the User Service<br/>
+When I call the third URL mapping, I get a list of Users<br/>
+<br/>
+As an API User,<br/>
+Given the User Service<br/>
+When I call the fourth URL mapping, and pass a new Role  JSON, it’s created on the Service<br/>
+<br/>
 
-As an API User,
-Given the User Service
-When I call the third URL mapping, I get a list of Roles
-
-As an API User,
-Given the User Service
-When I call the third URL mapping, I get a list of Users
-
-As an API User,
-Given the User Service
-When I call the fourth URL mapping, and pass a new Role  JSON, it’s created on the Service
-
-
-As an API User,
-Given the User Service
-When I call the fifth URL mapping, and pass a User-Role association JSON, the concerned role is applied to the User
+As an API User,<br/>
+Given the User Service<br/>
+When I call the fifth URL mapping, and pass a User-Role association JSON, the concerned role is applied to the User<br/>
 
 ## There can be multiple solution to create RESTful Web Servce with different technologies. 
 ### 1. Using Java and Spring Boot 
