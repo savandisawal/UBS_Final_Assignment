@@ -84,3 +84,19 @@ I have used the Python and Flask framework<br/>
     http://localhost:5000/employees
 	http://localhost:5000/roles
     ```
+    # How To Execute:
+    
+    ## Run below file 
+    ```bash
+    main.py
+    ```
+    This will start server:-
+    ```bash
+     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    ```
+    ## To execute Tests:
+    Open new terminal or new sesion and run below command.
+    
+    ```bash
+    python test.py
+    ```
