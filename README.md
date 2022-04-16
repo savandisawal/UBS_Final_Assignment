@@ -33,6 +33,8 @@ When I call the fifth URL mapping, and pass a User-Role association JSON, the co
 ### 1. Using Java and Spring Boot 
 ### 2. Using Python and Flask framework
 
+## Flowchart:
+![Assignment_Flowchart](https://user-images.githubusercontent.com/49858330/163679498-118090e7-be57-4755-b910-d6aaccdbd878.JPG)
 
 
 ## Technologies used
