@@ -62,6 +62,7 @@ I have used the Python and Flask framework<br/>
 	flask<br/>
 	json<br/>
 	unittest<br/>
+	logging</br?
 
 * ### Install your requirements
   
